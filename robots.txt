@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caoguapae.virtualtoy.me/sitemap.xml
